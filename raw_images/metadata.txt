@@ -1,0 +1,1 @@
+This file is here just to break the PILLOW image reading function.
